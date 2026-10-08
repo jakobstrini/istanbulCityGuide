@@ -1,0 +1,4 @@
+Hier kommen die Essensfotos rein (als .jpg), mit genau diesen Namen:
+doener, lahmacun, pide, manti, simit, boerek, balikekmek,
+baklava, kuenefe, lokum, cay, kaffee, ayran
+Beispiel: doener.jpg

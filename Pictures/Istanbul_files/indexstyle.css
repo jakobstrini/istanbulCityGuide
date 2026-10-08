@@ -1,0 +1,67 @@
+h1 {
+    color: red; 
+    font-size: 36px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+h2 {
+    color: #e30a17;
+    font-size: 28px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 15px;
+}
+
+.carousel {
+    max-width: 900px;
+    margin: 24px auto;
+}
+
+.carousel-item img {
+    height: 520px;
+    object-fit: cover;
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+    background-color: #e30a17;
+    margin: 8px;
+}
+
+.navigation a {
+    display: block;
+    padding: 20px 30px;
+    color: white;
+    text-decoration: none;
+}
+
+.navigation a:hover {
+    background-color: #b80812;
+}
+
+.navigation a:first-child {
+    background-color: white;
+    color: #e30a17;
+}
+
+.navbar {
+    background-color: #e30a17;
+    padding: 10px 20px;
+}
+
+
+.auswahlbild {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    
+}
